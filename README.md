@@ -11,11 +11,11 @@ Transform droves of data about America's public lands into tools to drive new pl
 Increasingly, computational tools are becoming a part of how we understand and approach our great outdoors. Through a better understanding of the interactions between individuals and their natural environment, we can inform novel data-driven, cost-effective, and citizen-centric approaches.
 
 #Resources
-[The Recreation Information Database (RIDB)](http://usda.github.io/RIDB/) is the API for federal recreation areas.
-The [Integrated Resource Management Applications Portal (IRMA)](https://irma.nps.gov/Portal) is the home of National Park Service data, including planning processes and biodiversity.
-The U.S. Fish & Wildlife Service hosts comprehensive [geospatial data](http://www.fws.gov/gis/data/national/) describing parks and ecosystems.
-The Bureau of Land Management [GeoCommunicator](http://www.geocommunicator.gov/GeoComm/) hosts overviews of the administrative status of BLM areas and other federal lands.
-[HIFLD geospatial data](https://hifld-dhs-gii.opendata.arcgis.com/datasets?group_id=3885011b3b38424092b7dadb1c77a4f6) on state, county, urban, and various other political boundaries, including those for federal lands and national forests, collected on the Esri ArcGIS data storytelling platform.
+- [The Recreation Information Database (RIDB)](http://usda.github.io/RIDB/) is the API for federal recreation areas.
+- The [Integrated Resource Management Applications Portal (IRMA)](https://irma.nps.gov/Portal) is the home of National Park Service data, including planning processes and biodiversity.
+- The U.S. Fish & Wildlife Service hosts comprehensive [geospatial data](http://www.fws.gov/gis/data/national/) describing parks and ecosystems.
+- The Bureau of Land Management [GeoCommunicator](http://www.geocommunicator.gov/GeoComm/) hosts overviews of the administrative status of BLM areas and other federal lands.
+- [HIFLD geospatial data](https://hifld-dhs-gii.opendata.arcgis.com/datasets?group_id=3885011b3b38424092b7dadb1c77a4f6) on state, county, urban, and various other political boundaries, including those for federal lands and national forests, collected on the Esri ArcGIS data storytelling platform.
 
 #Looking for more?
 Check out the [Starter Kit](https://github.com/bayesimpact/bayeshack-interior) compiled by Bayes for the recent Bayes Hack in San Francisco.  The prompts above are the same as utilized during that event.
