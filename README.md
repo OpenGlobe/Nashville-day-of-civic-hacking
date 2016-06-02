@@ -20,4 +20,9 @@ Increasingly, computational tools are becoming a part of how we understand and a
 #Looking for more?
 Check out the [Starter Kit](https://github.com/bayesimpact/bayeshack-interior) compiled by Bayes for the recent Bayes Hack in San Francisco.  The prompts above are the same as utilized during that event.
 
+#Want more challenge ideas and places to start?
+See the [myAmerica Developer Summit](http://openglobe.github.io/myamerica-devsummit/).  There are more challenge and code samples from that event's participants.
+
+Use #dev4outdoors to share what you're working on - and let us know how we can help!
+
 
